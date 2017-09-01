@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Kotlin Parcelize</string>
+    <string name="user_detail">Detail</string>
+    <string name="user_id">User Id</string>
+    <string name="user_name">Name</string>
+    <string name="user_age">Age</string>
+    <string name="text_id">ID: %s</string>
+    <string name="text_name">Name: %s</string>
+    <string name="text_age">Age: %s</string>
+    <string name="button_submit">Submit</string>
 </resources>

@@ -12,11 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+
         <activity android:name="id.kotlin.training.parcelize.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="id.kotlin.training.parcelize.DetailActivity"
+            android:label="@string/user_detail" />
     </application>
 </manifest>
